@@ -1,2 +1,2 @@
-# f.lux
-My backup of f.lux for iOS
+# f.lux-xcode
+Helping Xcode install f.lux on iOS
